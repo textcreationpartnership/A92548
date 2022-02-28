@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Estates of the kingdom of Scotland, containing the claim of right and the offer of the crown to Their Majesties, King William and Queen Mary: together with the grievances represented by the estates; and Their Majesties oath at their acceptance of the crown.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92548</idno>
+            <idno type="STC">Wing S1217A</idno>
+            <idno type="STC">ESTC R232191</idno>
+            <idno type="EEBO-CITATION">99897675</idno>
+            <idno type="PROQUEST">99897675</idno>
+            <idno type="VID">137401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137401)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2519:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Estates of the kingdom of Scotland, containing the claim of right and the offer of the crown to Their Majesties, King William and Queen Mary: together with the grievances represented by the estates; and Their Majesties oath at their acceptance of the crown.</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, by order of Parliament,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: At Edinburgh, the 21 of June 1689.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Convention of Estates --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137401:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE ESTATES OF THE KINGDOM OF SCOTLAND, Containing the Claim of Right, and the Offer of the CROWN to Their <hi>Majeſties,</hi> King <hi>WILLIAM</hi> and Queen <hi>MARY:</hi> Together with the Grievances Repreſented by the E<g ref="char:EOLhyphen"/>ſtates; and Their <hi>Majeſties</hi> Oath at Their Accep<g ref="char:EOLhyphen"/>tance of the CROWN.</p>
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> by Order of Parliament, <hi>Anno DOM.</hi> 1689.</p>
+            <pb facs="tcp:137401:2" rendition="simple:additions"/>
+            <pb facs="tcp:137401:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:137401:3"/>
+            <pb n="3" facs="tcp:137401:3"/>
+            <head>The Declaration of the <hi>Eſtates</hi> of the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> containing the Claim of Right, and the Offer of the CROWN to their <hi>Majeſties</hi> King <hi>WIL<g ref="char:EOLhyphen"/>LIAM</hi> and Queen <hi>MARY.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh,</hi> 
+                  <date>the Eleventh day of <hi>April,</hi> 1689.</date>
+               </dateline>
+            </opener>
+            <p>WHereas King <hi>James</hi> the Seventh, being a profeſt <hi>Papiſt,</hi> did Aſſume the Regal Power, and Acted as King, without ever taking the Oath required by Law, whereby the King, at His Acceſs to the Government, is obliged to Swear, to maintain the Proteſtant Religion, and to Rule the People according to the Laudable Laws; and did by the Advice of Wicked and Evil Counſellers, In<g ref="char:EOLhyphen"/>vade the Fundamental Conſtitution of this Kingdom, and Altered it from a Legal Limited Monarchy, to an Arbitrary Deſpotick Power; And in a pub<g ref="char:EOLhyphen"/>lick Proclamation, aſſerted an Abſolute Power, to caſs, anull and diſſable all the Laws, particularly Arraigning the Laws, eſtabliſhing the Proteſtant Religion, and did Exerce that Power, to the Subverſion of the Proteſtant Religon, and to the Violation of the Laws and Liberties of the Kingdom.</p>
+            <p>By Erecting Publick Schools, and Societies of the <hi>Jeſuits;</hi> and not only allowing <hi>Maſs</hi> to be publickly ſaid, but alſo Inverting Proteſtant Chap<g ref="char:EOLhyphen"/>pels and Churches to publick <hi>Maſs-Houſes,</hi> contrary to the Expreſs Laws againſt Saying and Hearing of <hi>Maſs.</hi>
+            </p>
+            <p>By allowing <hi>Popiſh-Books</hi> to be Printed, and diſperſed by a Gift to a <hi>Popiſh</hi> Printer; Deſigning him Printer to His <hi>Majeſties</hi> Houſhold, Colledge and Chappel, contrary to the Laws.</p>
+            <p>By taking the Children of Proteſtant Noblemen and Gentlemen, ſend<g ref="char:EOLhyphen"/>ing and keeping them abroad, to be bred <hi>Papists,</hi> making great Fonds and Dotations to <hi>Popiſh</hi> Schools and Colledges abroad; beſtowing Penſions upon Prieſts, and perverting Proteſtants from their Religion, by offers of Places, Preferments and Penſions.</p>
+            <p>By diſ-arming Proteſtants, while at the ſame time he Imployed <hi>Papiſts</hi> in the Places of greateſt Truſt, Civil and Military; Such as Chancellor, Se<g ref="char:EOLhyphen"/>cretaries, Privy Counſellers, and Lords of Seſſion, thruſting out Proteſtants, to make Room for <hi>Papists,</hi> and entruſting the Forts and Magazins of the King<g ref="char:EOLhyphen"/>dom in their hands.</p>
+            <p>By Impoſing Oaths contrary to Law.</p>
+            <p>By giving Gifts and Grants for exacting Money, without Conſent of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> or Convention of <hi>Estates.</hi>
+            </p>
+            <p>By Levying, or keeping on Foot a ſtanding Army in time of Peace, without Conſent of <hi>Parliament,</hi> which Army did exact Locality, free and dry Quarters.</p>
+            <p>By Imploying the Officers of the Army, as Judges through the King<g ref="char:EOLhyphen"/>dom, and Impoſing them where there were Heretable Offices and Juriſ<g ref="char:EOLhyphen"/>dictions, by whom many of the Leidges were put to death ſummarly, with<g ref="char:EOLhyphen"/>out Legal Tryal, Jury or Record.</p>
+            <p>By Impoſing Exorbitant Fines, to the Value of the Parties Eſtates, Ex<g ref="char:EOLhyphen"/>acting Extravagant Bale; and diſpoſing Fines and Forefaultures before any Proceſs or Conviction.</p>
+            <pb n="4" facs="tcp:137401:4"/>
+            <p>By Impriſoning Perſons without expreſſing the Reaſon, and delaying to put them to Tryal.</p>
+            <p>By cauſing Purſue and Forefault ſeveral Perſons upon ſtretches of old and obſolete Laws, upon frivolous and weak Pretences, upon Lame and Defective Probations; as particularly the late Earl of <hi>Argyl,</hi> to the Scandal and Re<g ref="char:EOLhyphen"/>proach of the Juſtice of the Nation.</p>
+            <p>By Subverting the Right of the Royal Burghs, the third Eſtate of <hi>Parliament,</hi> Impoſing upon them not only Magiſtrats, but alſo the whole Town-Council, and Clerks, contrary to their Liberties, and Expreſs Char<g ref="char:EOLhyphen"/>ters without the Pretence either of Sentence, Surrender, or Conſent; So that the Commiſſioners to <hi>Parliaments</hi> being choſen by the Magiſtrats and Council, the King might in effect alſe well nominat that entire Eſtate of <hi>Par<g ref="char:EOLhyphen"/>liament;</hi> and many of the ſaids Magiſtrats put in by him, were avowed <hi>Pa<g ref="char:EOLhyphen"/>pists,</hi> and the Burghs were forced to pay Money for the Letters, Impoſing theſe Illegal Magiſtrats and Councils upon them.</p>
+            <p>By ſending Letters to the Chief Court of Juſtice, not only ordaining the Judges to ſtop and deſiſt <hi>ſine die</hi> to determine Cauſes; but alſo Ordering and Commanding them how to proceed, in Caſes depending before them, contrary to the Expreſs Laws; and by changing the Nature of the Judges Gifts <hi>ad vitam aut culpam,</hi> and giving them Commiſſions <hi>ad beneplacitum,</hi> to diſpoſe them to Complyance with Arbitrary Courſes, and turning them out of their Offices, when they did not Comply.</p>
+            <p>By granting Perſonal Protections for Civil Debts, contrary to Law.</p>
+            <p>All which are utterly and directly contrary to the known Laws, Statutes and Freedoms of this Realm.</p>
+            <p>Therefore the Eſtates of the Kingdom of <hi>Scotland,</hi> Find and Declare, that King <hi>James</hi> the Seventh being a Profeſt <hi>Papiſt</hi> did Aſſume the Regal Power, and Acted as King, without ever taking the Oath, required by Law, and hath by the Advice of Evil and Wicked Counſellers, Invaded the Fundamental Conſtitution of the Kingdom, and altered it from a Legal Limited Monarchy, to an Arbitrary Deſpotick Power, and hath Exerciſed the ſame, to the Sub<g ref="char:EOLhyphen"/>verſion of the Proteſtant Religion, and the Violation of the Laws and Liber<g ref="char:EOLhyphen"/>ties of the Kingdom, Inverting all the Ends of Government, whereby he hath Forefaulted the Right to the Crown, and the Throne is become Vacant.</p>
+            <p>And whereas His Royal Highneſs, <hi>William</hi> then Prince of <hi>Orange,</hi> now King of <hi>England,</hi> whom it hath pleaſed Almighty GOD to make the Glori<g ref="char:EOLhyphen"/>ous inſtrument of delivering theſe Kingdoms from <hi>Popery,</hi> and Arbitrary Power, Did, by the Advice of Several Lords and Gentlemen of this Nation, at <hi>London</hi> for the time, call the Eſtates of this Kingdom to meet the Fourteenth of <hi>March</hi> laſt, In Order to ſuch an Eſtabliſhment, as that their Religion, Laws and Liberties might not be again in Danger of being Subverted; And the ſaids Eſtates being now Aſſembled, in a Full and Free Repreſentative of this Nation, Taking to their moſt ſerious Conſideration, the beſt Means for attaining the Ends aforeſaid, Do, in the firſt Place, as their Anceſtors in the like Caſes have uſually done, for the Vindicating and Aſſerting their Ancient Rights, and Liberties, Declare,</p>
+            <p>That by the Law of this Kingdom, no Papiſt can be King or Queen of this Realm, nor bear any Office whatſoever therein; nor can any Proteſtant Suc<g ref="char:EOLhyphen"/>ceſſor exerciſe the Regal Power, untill He or She Swear the Coronation Oath.</p>
+            <p>That all Proclamations aſſerting an Abſolute Power, to Caſs, Annull, and Diſable Laws, the Erecting Schools and Colledges for <hi>Jeſuits,</hi> the Inverting Proteſtant Chappels and Churches to Publick Maſs-houſes, and the allowing Maſs to be ſaid, are contrary to Law.</p>
+            <pb n="5" facs="tcp:137401:4"/>
+            <p>That the Allowing Popiſh Books to be Printed and Diſperſed, is contrary to Law.</p>
+            <p>That the taking the Children of Noble-men, Gentle-men, and others, ſend<g ref="char:EOLhyphen"/>ing and keeping them abroad to be bred Papiſts, the making Fonds and Do<g ref="char:EOLhyphen"/>tations to Popiſh Schools and Colledges, the beſtowing Penſions on Prieſts, and the perverting Proteſtants from their Religion, by offers of Places, Prefer<g ref="char:EOLhyphen"/>ments, and Penſions, are contrary to Law.</p>
+            <p>That the Diſarming of Proteſtants, and Imploying Papiſts in the Places of greateſt Truſt, both Civil and Military, the thruſting out Proteſtants, to make room for Papiſts, and the intruſting Papiſts with the Forts and Magazines of the Kingdom, are contrary to Law.</p>
+            <p>That the Impoſing Oaths without Authority of Parliament, is contrary to Law.</p>
+            <p>That the giving Gifts or Grants, for raiſing of Money, without the conſent of Parliament, or Convention of Eſtates, is contrary to Law.</p>
+            <p>That the imploying the Officers of the Army as Judges through the King<g ref="char:EOLhyphen"/>dom, or Impoſing them where there were Heretable Offices and Jurisdictions, and the putting the Leidges to death ſummarly, and without Legal Tryal, Ju<g ref="char:EOLhyphen"/>ry, or Record, are contrary to Law.</p>
+            <p>That the Impoſing of extraordinary Fines, the exacting of exorbitant Bale, and the diſpoſing of Fines, and Forfaultures before Sentence, are contrary to Law.</p>
+            <p>That the Impriſoning Perſons, without expreſſing the Reaſon thereof, and delaying to put them to Tryal, is contrary to Law.</p>
+            <p>That the cauſing Purſue and Forefault Perſons, upon ſtretches of old and obſolete Laws, upon frivolous and weak pretences, upon lame and defective Probation, as particularly the late Earl of <hi>Argile,</hi> are contrary to Law.</p>
+            <p>That the Nominating and Impoſing the Magiſtrats, Councils, and Clerks, upon Burghs, contrary to their Liberties and expreſs Charters, is contrary to Law.</p>
+            <p>That the ſending Letters to the Courts of Juſtice, Ordaining the Judges to ſtop or deſiſt from Determining Cauſes, or Ordaining them how to proceed in Cauſes depending before them, and the changing the nature of the Judges Gifts <hi>ad vitam aut culpam,</hi> into Commiſſions <hi>durante beneplacito,</hi> are contrary to Law.</p>
+            <p>That the granting Perſonal Protections for Civil Debts, is contrary to Law.</p>
+            <p>That the forcing the Leidges to Depone againſt themſelves in Capital Crimes, however the puniſhment be reſtricted, is contrary to Law.</p>
+            <p>That the uſing Torture without Evidence in ordinary Crimes, is contrary to Law.</p>
+            <p>That the ſending of an Army in an Hoſtile manner, upon any part of the Kingdom, in a peaceable time, and exacting of Locality, and any manner of free Quarter, is contrary to Law.</p>
+            <p>That the Charging of the Leidges with Law-borrows at the King's inſtance, and the Impoſing of Bonds without the Authority of Parliament, and the Suſpend<g ref="char:EOLhyphen"/>ing Advocats from their Imployments, for not Compearing when ſuch Bonds were offered, were contrary to Law.</p>
+            <p>That the putting of Garriſons in privat Mens Houſes in time of Peace, with<g ref="char:EOLhyphen"/>out their conſent, or the Authority of Parliament, is contrary to Law.</p>
+            <p>That the Opinions of the Lords of Seſſion in the two Caſes following, were contrary to Law, <hi>viz.</hi> 10. That the concealing the demand of a Supply for a Forefaulted Perſon, although not given, is Treaſon. 20. That Perſons re<g ref="char:EOLhyphen"/>fuſing
+<pb n="6" facs="tcp:137401:5"/>to diſcover what are their privat Thoughts and Judgments, in relation to points of Treaſon, or other mens Actions, are guilty of Treaſon.</p>
+            <p>That the Fyning Husbands for their Wives withdrawing from the Church, was contrary to Law.</p>
+            <p>That Prelacy &amp; the Superiority of any Office in the Church, above Presbyters, is and hath been a great and inſupportable grievance and trouble to this Nati<g ref="char:EOLhyphen"/>on, and contrary to the Inclinations of the Generality of the People, ever ſince the Reformation (they having Reformed from Popery by Presbyters) and therefore ought to be aboliſhed.</p>
+            <p>That it is the Right and Priviledge of the Subjects, to Proteſt for Remeed of Law to the King and Parliament, againſt Sentences pronounced by the Lords of Seſſion, providing the ſame do not ſtop Execution of theſe Sentences.</p>
+            <p>That it is the Right of the Subjects to Petition the King, and that all Impri<g ref="char:EOLhyphen"/>ſonments and Proſecutions for ſuch Petitioning, are contrary to Law.</p>
+            <p>That for Redreſs of all Grievances, and for the Amending, Strengthning, and Preſerving of the Laws, Parliaments ought to be frequently called, and al<g ref="char:EOLhyphen"/>lowed to ſit, and the freedom of Speech and Debate ſecured to the Members.</p>
+            <p>And they do Claim, Demand, and Inſiſt upon all and ſundry the Premiſſes, as their undoubted Right and Liberties, and that no Declarations, Doings, or Proceedings, to the prejudice of the People, in any of the ſaid Premiſſes, ought in any wiſe to be drawn hereafter, in Conſequence or Example, but that all Forefaulturs, Fines, loſs of Offices, Impriſonments, Baniſhments, Pur<g ref="char:EOLhyphen"/>ſuits, Perſecutions, Tortures, and rigorous Executions be conſidered, and the Parties Leſed be Redreſſed.</p>
+            <p>To which Demand of their Rights, and Redreſſing of their Grievances, they are particularly encouraged by his Majeſty, the King of <hi>England</hi> His Declarati<g ref="char:EOLhyphen"/>on for the Kingdom of <hi>Scotland,</hi> of the day of <hi>October</hi> laſt, as being the only means for obtaining a full Redreſs and Remedy therein.</p>
+            <p>Having therefore an entire Confidence, that His ſaid Majeſty, the King of <hi>England,</hi> will perfect the Deliverance ſo far advanced by Him, and will ſtill preſerve them from the Violation of their Rights, which they have here Aſ<g ref="char:EOLhyphen"/>ſerted, and from all other Attempts upon their Religion, Laws and Liberties.</p>
+            <p>The ſaid Eſtates of the Kingdom of <hi>Scotland,</hi> Do Reſolve that <hi>WILLIAM</hi> and <hi>MARY,</hi> King and Queen of <hi>England, France</hi> and <hi>Ireland,</hi> Be, and be De<g ref="char:EOLhyphen"/>clared King and Queen of <hi>Scotland,</hi> to hold the Crown and Royal Dignity of the ſaid Kingdom of <hi>Scotland,</hi> to Them the ſaid King and Queen, during Their Lives, and the longeſt Liver of Them, and that the Sole and Full Exer<g ref="char:EOLhyphen"/>ciſe of the Regal Power, be only in, and Exerciſed by Him the ſaid King, in the Names of the ſaid King and Queen, during their Joynt Lives, and after their Deceaſe, the ſaid Crown and Royal Dignity of the ſaid Kingdom, to be to the Heirs of the Body of the ſaid Queen, which failing, to the Princeſs <hi>Ann</hi> of <hi>Denmark,</hi> and the Heirs of her Body, which alſo failling, to the Heirs of the Body of the ſaid <hi>WILLIAM</hi> King of <hi>England.</hi>
+            </p>
+            <p>And they do Pray the ſaid King and Queen of <hi>England</hi> to accept the ſame accordingly.</p>
+            <p>And that the Oath hereafter mentioned, be Taken by all Proteſtants, of whom the Oath of Allegiance, and any other Oaths and Declarations might be required by Law, in ſtead of them, and that the ſaid Oath of Allegiance, and other Oaths and Declarations may be Abrogated.</p>
+            <pb n="7" facs="tcp:137401:5"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>The OATH.</head>
+                        <p>
+                           <hi>I</hi> A. B. <hi>Do ſincerely Promiſe and Swear, That I will be Faithful, and bear True Allegiance to Their Majesties, King</hi> WILLIAM <hi>and Queen</hi> MARY. <hi>So help me GOD.</hi>
+                        </p>
+                        <p>And the Eſtates Do Ordain, That this Declaration be Ingroſſed in Parch<g ref="char:EOLhyphen"/>ment, and Recorded in the Regiſter Books of Parliament.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="grievances">
+            <head>Follows the Grievances Repreſented by the Eſtates of the Kingdom of <hi>SCOTLAND,</hi> to the KING'S moſt Excellent Majeſty, to be Redreſſed in <hi>PARLIAMENT.</hi>
+            </head>
+            <p>THE Estates of the Kingdom of <hi>Scotland,</hi> Do Repreſent, That the Committee of Parliament, Called the Articles, is a great Grievance to the Nation, and that there ought to be no Committees of Parliament, but ſuch as are freely Choſen by the Estates, to prepare Motions and Overtures that are firſt made in the Houſe.</p>
+            <p>That the firſt Act of Parliament <hi>1669.</hi> Is inconſiſtent with the Establiſh<g ref="char:EOLhyphen"/>ment of the Church-Government, now deſired, and ought to be Abrogated.</p>
+            <p>That Forefaulturs in prejudice of Vaſsals, Creditors and Heirs of Entail, are a great Grievance.</p>
+            <p>That the obliging the Liedges to Depone upon Crimes againſt Delinquents, otherwayes than when they are Adduced in ſpecial Proceſses, as Witneſſes, is a great Grievance.</p>
+            <p>That Aſſizes of Error are a Grievance, and that Juries be conſidered by Parliament.</p>
+            <p>That the eighteenth Act of Parliament <hi>1681.</hi> Declaring a Cumulative Ju<g ref="char:EOLhyphen"/>riſdiction, is a Grievance.</p>
+            <p>That the Commiſsariot Courts, as they are now Conſtitute, are a Grievance.</p>
+            <p>That the Twenty ſeventh Act of Parliament <hi>1663.</hi> Giving to the King Power to Impoſe Cuſtom at pleaſure, upon Forraign Import and Trade, is a Grievance, and prejudicial to the Trade of the Nation.</p>
+            <p>That the not taking an Effectual Courſe to Repreſs the Depredations and Rob<g ref="char:EOLhyphen"/>beries by the Highland Clans, is a Grievance.</p>
+            <p>That the Baniſhment by the Council of the greateſt part of the Advocat from <hi>Edinburgh,</hi> without a Proceſs, was a Grievance.</p>
+            <p>That the most of the Laws Enacted in the Parliament <hi>Anno 1685.</hi> are Impious and Intollerable Grievances.</p>
+            <p>That the Marriage of a King or Queen of this Realm to a Papiſt, is Dan<g ref="char:EOLhyphen"/>gerous to the Protestant Religion, and ought to be provided againſt.</p>
+            <p>That the Levying, or Keeping on Foot a Standing Army in time of peace, without Conſent of Parliament, is a Grievance.</p>
+            <p>That all Grievances relating to the Manner and Meaſure of the Leidges, their Repreſentation in Parliament be Conſidered and Redreſſed in the firſt Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>That the Grievances of the Burrows be Conſidered and Redreſsed in the first Parliament.</p>
+         </div>
+         <div type="oath">
+            <pb n="8" facs="tcp:137401:6"/>
+            <head>The OATH taken by the King and Queen at Their Ac<g ref="char:EOLhyphen"/>ceptance of the Crown of <hi>Scotland.</hi>
+            </head>
+            <p>WE <hi>WILLIAM</hi> and <hi>MARY,</hi> King and Queen of <hi>Scotland,</hi> Faithfully Promiſe and Swear by this Our Solemn <hi>OATH,</hi> in preſence of the Eternal <hi>GOD,</hi> That during the whole Courſe of Our Life, We will Serve the ſame Eternal <hi>GOD,</hi> to the utmoſt of Our Power, according as He has Required in His moſt Ho<g ref="char:EOLhyphen"/>ly Word, Revealed and Contained in the Old and New Teſtaments; and according to the ſame Word, ſhall Maintain the True Religion of Chriſt Je<g ref="char:EOLhyphen"/>ſus, the Preaching of His Holy Word, and the due and right Miniſtration of the Sacraments, now Received and Preached within the Realm of <hi>Scotland;</hi> and ſhall Aboliſh and Gainſtand all Falſe Religion, contrary to the ſame; and ſhall Rule the People committed to Our Charge, according to the Will and Command of GOD, Revealed in His aforeſaid Word, and according to the Love-able Laws and Conſtitutions, Received in this Realm, no wayes Repug<g ref="char:EOLhyphen"/>nant to the ſaid Word of the Eternal GOD, And ſhall procure to the utter<g ref="char:EOLhyphen"/>moſt of Our Power, to the Kirk of GOD, and whole Chriſtian People, true and perfect Peace, in all time coming, That We ſhall preſerve and keep In<g ref="char:EOLhyphen"/>violated the Rights and Rents, with all juſt Priviledges of the Crown of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> Neither ſhall We Transfer nor Alienat the ſame; That We ſhall For<g ref="char:EOLhyphen"/>bid and Repreſs, in all Eſtates and Degrees, Reife, Oppreſſion, and all kind of Wrong; And We ſhall Command and Procure, That Juſtice and Equity in all Judgments, be keeped to all perſons without Exception, as the Lord and Father of all Mercies ſhall be merciful to Us: And We ſhall be Careful to Root out all Hereticks and Enemies to the true Worſhip of GOD, that ſhall be Convict by the True Kirk of GOD, of the foreſaids Crimes, out of Our Lands and Empyre of <hi>Scotland:</hi> And We Faithfully Affirm the Things above-written by Our Solemn Oath. Signed by Us at <hi>Whitehall,</hi> the Ele<g ref="char:EOLhyphen"/>venth Day of <hi>May,</hi> One thouſand ſix hundred fourſcore and nine years.</p>
+            <closer>
+               <signed>WILLIAM R. MARY R.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <head>At <hi>Edinburgh,</hi> the 21 of <hi>June</hi> 1689.</head>
+            <p>HIs Majeſties Commiſsioner, and the Eſtates of Parliament, Do Ordain the Declaration of the Estates of this Kingdom, Containing the Claim of Right, and the Offer of the Crown to Their Majesties, King <hi>William</hi> and Queen <hi>Mary;</hi> With the Grievances Repreſented by the Eſtates; And the Oath Taken and Signed by the King and Queen, at Their Acceptance of the Crown, to be Printed. Extracted out of the Records of Parliament, by</p>
+            <closer>
+               <signed>
+                  <hi>AL. GIBSON,</hi> Cls</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137401:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
